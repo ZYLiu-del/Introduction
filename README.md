@@ -11,7 +11,7 @@
   
   [![Email](https://img.shields.io/badge/Email-takecare117117@gmail.com-blue?style=flat-square&logo=gmail)](mailto:takecare117117@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-+31_616533393-green?style=flat-square&logo=whatsapp)](tel:+31616533393)
-  [![Location](https://img.shields.io/badge/Location-Europe%20%2F%20Remote-orange?style=flat-square&logo=location)]()
+  [![Location](https://img.shields.io/badge/Location-Amsrerdam%20%2F%20Remote-orange?style=flat-square&logo=location)]()
 
 </div>
 
